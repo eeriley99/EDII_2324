@@ -23,13 +23,24 @@ h1{
      top: 0%;
 }
 
+ul{
+    color: black;
+	list-style-type:none;
+     position: absolute;
+     left: 50%;
+     transform: translateX(-50%) translateY(-50%);
+     text-align: center;
+     top: 15%;
+
+}
+
 h2{
   position: absolute;
 }
 
 p{
     position: absolute;
-    font-size: 0.875em;
+    font-size: 1em;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
     text-align:center;
@@ -40,7 +51,7 @@ table{
   position: absolute;
   z-index: 1;
   width:100%;
-  top: 10%;
+  top: 25%;
 
 }
 
