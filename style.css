@@ -10,6 +10,10 @@ canvas {
   z-index: -1;
 }
 
+body {
+  background-color: lightblue;
+}
+
 img {
   border: 5px solid #000;
 }
@@ -23,7 +27,7 @@ h1{
      top: 0%;
 }
 
-ul, href{
+ul{
     color: black;
 	list-style-type:none;
      position: absolute;
