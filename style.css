@@ -23,7 +23,7 @@ h1{
      top: 0%;
 }
 
-ul{
+ul, href{
     color: black;
 	list-style-type:none;
      position: absolute;
