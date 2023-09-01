@@ -1,7 +1,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  font-family:'Roboto', sans-serif;
+  font-family: 'Edu SA Beginner', cursive;
   background-color: lightblue;
 }
 
@@ -52,7 +52,7 @@ table{
   position: absolute;
   z-index: 1;
   width:100%;
-  top: 25%;
+  top: 10%;
 
 }
 
